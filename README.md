@@ -1,1 +1,1 @@
-# sample_code_repo for LinkedIn visitors.
+# sample_code_repo for LinkedIn visitors, open code that I could share. 
