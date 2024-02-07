@@ -1,1 +1,1 @@
-# sample_code_repo
+# sample_code_repo for LinkedIn visitors.
